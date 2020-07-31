@@ -14,8 +14,8 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "experimentalDecorators": true,
-    "baseUrl": ".",
     "sourceMap": false,
+    "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"],
       "@type/*": ["src/types/*"],
